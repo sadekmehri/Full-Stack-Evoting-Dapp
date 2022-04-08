@@ -41,7 +41,7 @@ Election voting dapp using smart contracts</h3>
 ## About The Project
 
 <a href="#">
-<img src="images/1.png" alt="Logo">
+<img src="images/1.PNG" alt="Logo">
 </a>
 Conducting elections in a traditional way is generally a huge expense & has many inherent flaws, which if not addressed leads to a high trust deficit and unworthy candidates being chosen.
 
@@ -179,19 +179,19 @@ First all of all you need to install some prerequesties by following these steps
 ## Usage
 
 <a href="#">
-<img src="images/2.png" alt="Logo">
+<img src="images/2.PNG" alt="Logo">
 </a>
 <a href="#">
-<img src="images/3.png" alt="Logo">
+<img src="images/3.PNG" alt="Logo">
 </a>
 <a href="#">
-<img src="images/4.png"alt="Logo">
+<img src="images/4.PNG"alt="Logo">
 </a>
 <a href="#">
-<img src="images/5.png" alt="Logo">
+<img src="images/5.PNG" alt="Logo">
 </a>
 <a href="#">
-<img src="images/6.png" alt="Logo">
+<img src="images/6.PNG" alt="Logo">
 </a>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
