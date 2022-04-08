@@ -1,0 +1,35 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "jest --watchAll --verbose --detectOpenHandles",
+    "dev:compile": "cd truffle && truffle compile",
+    "dev:migrate": "cd truffle && truffle migrate --compile-all --reset --network development",
+    "dev:test": "cd truffle && truffle test --compile-none --network development"
+  },
+  "keywords": [],
+  "author": "Sadok Mehri, Badis El Beji",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "express": "^4.17.1",
+    "express-async-errors": "^3.1.1",
+    "joi": "^17.6.0",
+    "lodash": "^4.17.21",
+    "web3": "^1.7.1",
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {
+    "@types/mocha": "^9.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "faker": "^5.5.3",
+    "morgan": "^1.10.0",
+    "supertest": "^6.1.6",
+    "truffle-assertions": "^0.9.2"
+  }
+}
