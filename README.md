@@ -179,7 +179,7 @@ First all of all you need to install some prerequesties by following these steps
 ## Usage
 
 <a href="#">
-<img src="images/2.PNG" alt="Logo">
+<img src="images/2.png" alt="Logo">
 </a>
 <a href="#">
 <img src="images/3.PNG" alt="Logo">
